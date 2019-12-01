@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575224879 source:c:\users\tulio\desktop\funcionario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+
